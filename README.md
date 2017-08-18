@@ -23,12 +23,15 @@ modal.alert()
 Available plugins: 
 
   - Bootstrap (3 & 4)
-  - [Vex](http://github.hubspot.com/vex/docs/welcome/)
+  - [Vex 3 & 4](http://github.hubspot.com/vex/docs/welcome/)
 
 ## Install
 ```bash
 npm install ngx-modialog
 ```
+
+## Basic plunker playground (bootstrap plugin):
+http://plnkr.co/edit/lV7zsw7Yqossgs9JOfQU?p=preview
 
 ## Quick start
 
